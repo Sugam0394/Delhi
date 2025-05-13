@@ -1,23 +1,7 @@
  h1{
-    background-color: black;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 5px;
-    
-    border-radius: 5px;
-
+   color: red;
  }
 
- header{
-    display: flex;
-    justify-content: center;
- }
-
- article{
-    background-color:  red;
-    color: rgb(183, 255, 0);
- }
  p{
-    padding: 10px;
-    margin: 10px;
+   color: white;
  }
